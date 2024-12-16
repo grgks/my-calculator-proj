@@ -6,6 +6,7 @@ public class AddCalculator {
         int num2 = 20;
         int result = 0 ;
         result = add(num1,num2);
+        System.out.println("Sum: " + result);
 
     }
 
